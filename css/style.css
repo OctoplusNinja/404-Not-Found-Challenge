@@ -21,9 +21,10 @@
         margin-top: 70px;
     }
     .body-image img{
+        position: relative;
         width: 80%;
         margin-left: 77px;
-    } 
+    }
 
     .content-heading{
         font-family: "space mono", sans-serif;
@@ -59,10 +60,11 @@
         letter-spacing: -0.035em;
         text-transform: uppercase;
         color: white;
+        transition: background-color 0.2s;
     }
 
     .footer{
-        margin-top: 100px;
+        margin-top: 7rem;
         text-align: center;
         font-family: Montserrat, sans-serif;
         font-style: normal;
@@ -76,4 +78,9 @@
         color: #BDBDBD;
         font-weight: 700;
         padding-bottom: 24px;
+    }
+
+    button:hover
+    {
+        background-color: #454545;
     }

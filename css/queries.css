@@ -20,6 +20,10 @@
         margin-top: 28px;
         width: 300px;
     }
+    .footer
+    {
+        margin-top: 9rem;
+    }
     .body-image img{
         margin-left: 45px;
     }
@@ -52,6 +56,10 @@
     }
     .content-about{
         font-size: 18px;
+    }
+    .footer
+    {
+        margin-top: 7rem;
     }
 }
 

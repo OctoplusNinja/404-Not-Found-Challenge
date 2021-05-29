@@ -55,6 +55,7 @@
 
 - HTML 5
 - CSS 3 (GRID System)
+- JavaScript (For Parallax effect)
 - Netlify
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ceb79c77-9fe6-4f68-97c8-ed381b4bf5b2/deploy-status)](https://app.netlify.com/sites/404-not-found-octoplus/deploys)

@@ -54,7 +54,7 @@
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - HTML 5
-- CSS 3 (GRID System)
+- CSS 3
 - JavaScript (For Parallax effect)
 - Netlify
 
